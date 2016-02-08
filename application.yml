@@ -5,4 +5,4 @@ eureka:
       defaultZone: http://localhost:8010/eureka
 mysql:
   db:
-    url: http://localhost/mysql
+    url: http://gluedb/mysql
