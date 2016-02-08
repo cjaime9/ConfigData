@@ -3,3 +3,6 @@ eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8010/eureka
+mysql:
+  db:
+    url: http://localhost/mysql
