@@ -6,3 +6,5 @@ eureka:
 mysql:
   db:
     url: http://gluedb/mysql
+  ibm:
+    mysql: http://ibm/mysql
